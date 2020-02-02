@@ -132,7 +132,7 @@
         <div class="col-md-1"></div>
         <div class="col-md-5">
           <div style="text-align: center;">
-            <h2>Juan Azcarreta</h2>
+            <h2>Juan Azcarreta-Ortiz</h2>
             <br>
              <v-avatar size="100">
             <v-img
@@ -144,8 +144,8 @@
           <br>
           <p
             style="margin-left: 15%; margin-right: 15%; text-align: justify;"
-          >I am a Research Engineer at Audio Analytic, Cambridge, UK, working in signal processing and machine learning algorithms. Through my experience attending STEM conferences I realized there is a lack of women public speakers. VOICES is an international project where we aim to give visibility to women leaders that will sparkle inspiration to the next to come!
-I feel passionate about technology, discovering different cultures and learning new languages. I am a member of the Global Shapers Cambridge Hub, the yough organization of the World Economic Forum.</p>
+          >I am a Research Engineer at Audio Analytic, Cambridge, UK, working in signal processing and machine learning for sound recognition. Through my experience attending STEM conferences I became aware of the underrepresentation of women public speakers in technical fields. With VOICES, we aim to change this situation by giving visibility to female leaders to sparkle inspiration to the next to come!
+I feel passionate about technology, discovering different cultures and learning new languages. VOICES is an international collaboration between different Global Shaper Hubs, the organization of youth leaders founded by the of the World Economic Forum.</p>
         </div>
       </div>
     </div>

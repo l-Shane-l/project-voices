@@ -48,7 +48,7 @@
             <br>
              <v-avatar size="100">
             <v-img
-              src="https://voices-2f306.firebaseapp.com/img/pro.png"
+              src="http://localhost:8080/img/Zsofia.jpg"
       
             />
              </v-avatar>
@@ -62,11 +62,11 @@
         <div class="col-md-5">
           <div style="text-align: center;">
             
-            <h2>Julia Pardo</h2>
+            <h2>Clodagh Quain</h2>
             <br>
              <v-avatar size="100">
             <v-img
-              src="https://voices-2f306.firebaseapp.com/img/pro.png"
+              src="http://localhost:8080/img/Clo.jpeg"
         
             />
              </v-avatar>
@@ -74,7 +74,7 @@
           <br>
           <p
             style="margin-left: 15%; margin-right: 15%; text-align: justify;"
-          >With formal training in Biotechnology and Business management and administration, I have worked in different fields, always staying close to a stage. I am currently an actress and public speaking consultant, and I do workshops in different formats and for different types of entities. In 2016, I was awarded as Best Speaker in Spain by Toastmasters International. I also organise and present Ignite BCN, and I have been the curator of the Barcelona hub for Global Shapers, the youth community of the World Economic Forum.</p>
+          >Security and Defence Researcher at Ireland's leading think tank, the IIEA, responsible for the research and events programme. Over six years international experience in Paris, Brussels and Vienna with experience at the EU Institute for Security Studies, European Parliament and Irish Department of Foreign Affairs.</p>
         </div>
       </div>
       <div class="row" >
@@ -84,7 +84,7 @@
             <br>
             <v-avatar size="100">
             <v-img
-              src="https://voices-2f306.firebaseapp.com/img/pro.png"
+              src="http://localhost:8080/img/Khaoula.jpeg"
        
             />
             </v-avatar>
@@ -101,7 +101,7 @@
             <br>
              <v-avatar size="100">
             <v-img
-              src="https://voices-2f306.firebaseapp.com/img/pro.png"
+              src="http://localhost:8080/img/Hanna.jpg"
     
             />
              </v-avatar>
@@ -115,11 +115,11 @@
       <div class="row">
         <div class="col-md-5">
           <div style="text-align: center;">
-            <h2>Dr. Pahini Pandya</h2>
+            <h2>Shane Hamilton</h2>
             <br>
              <v-avatar size="100">
             <v-img
-              src="https://voices-2f306.firebaseapp.com/img/pro.png"
+              src="http://localhost:8080/img/Shane.jpg"
 
             />
              </v-avatar>
@@ -127,16 +127,16 @@
           <br>
           <p
             style="margin-left: 15%; margin-right: 15%; text-align: justify;"
-          >Dr. Pahini Pandya is the CEO and co-founder of Panakeia Technologies. Following a BSc. in Biotechnology in India, she pursued a PhD in Cancer Biophysics at King’s College London and continued her research on cancer as a Post-Doctoral fellow at the University of Cambridge. In addition to her academic pursuits, she has facilitated the translation of research to the wider community through several leadership positions as the President, Innovation Forum (KCL), Vice-President, Cambridge Consulting Network and Committee member, Entrepreneurial Postdocs of Cambridge.</p>
+          >I am an engineer at Eiratech Robotics in Dublin Ireland and a memember of the Dublin global shapers. I am passionate about solving social and economic problems with technological innovation, in my day job I build and program robots and in my free time I build code solutions for social enterprises.</p>
         </div>
         <div class="col-md-1"></div>
         <div class="col-md-5">
           <div style="text-align: center;">
-            <h2>Alena Fargere</h2>
+            <h2>Juan Azcarreta</h2>
             <br>
              <v-avatar size="100">
             <v-img
-              src="https://voices-2f306.firebaseapp.com/img/pro.png"
+              src="http://localhost:8080/img/Juan.jpg"
 
             />
              </v-avatar>
@@ -144,7 +144,8 @@
           <br>
           <p
             style="margin-left: 15%; margin-right: 15%; text-align: justify;"
-          >Alena is an Energy Transition Economist and Hydrogen Energy Expert.With 6 years of industrial experience, Alena advises industries and international organisations, such as the World Energy Council and the UN on sustainable energy, gas and mobility pathways. Her contribution to the energy transition success has been recognised by the Forbes 30 under 30 list and the Future Energy Leader nomination by the World Energy Council. Alena holds a PhD in Economics and Master's degrees both in Applied Mathematics and Public Policy.</p>
+          >I am a Research Engineer at Audio Analytic, Cambridge, UK, working in signal processing and machine learning algorithms. Through my experience attending STEM conferences I realized there is a lack of women public speakers. VOICES is an international project where we aim to give visibility to women leaders that will sparkle inspiration to the next to come!
+I feel passionate about technology, discovering different cultures and learning new languages. I am a member of the Global Shapers Cambridge Hub, the yough organization of the World Economic Forum.</p>
         </div>
       </div>
     </div>

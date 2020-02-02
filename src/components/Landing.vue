@@ -48,7 +48,7 @@
             <br>
              <v-avatar size="100">
             <v-img
-              src="http://localhost:8080/img/Zsofia.jpg"
+              src="https://www.projectvoices.org/img/Zsofia.jpg"
       
             />
              </v-avatar>
@@ -66,7 +66,7 @@
             <br>
              <v-avatar size="100">
             <v-img
-              src="http://localhost:8080/img/Clo.jpeg"
+              src="https://www.projectvoices.org/img/Clo.jpeg"
         
             />
              </v-avatar>
@@ -84,7 +84,7 @@
             <br>
             <v-avatar size="100">
             <v-img
-              src="http://localhost:8080/img/Khaoula.jpeg"
+              src="https://www.projectvoices.org/img/Khaoula.jpeg"
        
             />
             </v-avatar>
@@ -101,7 +101,7 @@
             <br>
              <v-avatar size="100">
             <v-img
-              src="http://localhost:8080/img/Hanna.jpg"
+              src="https://www.projectvoices.org/img/Hanna.jpg"
     
             />
              </v-avatar>
@@ -119,7 +119,7 @@
             <br>
              <v-avatar size="100">
             <v-img
-              src="http://localhost:8080/img/Shane.jpg"
+              src="https://www.projectvoices.org/img/Shane.jpg"
 
             />
              </v-avatar>
@@ -136,7 +136,7 @@
             <br>
              <v-avatar size="100">
             <v-img
-              src="http://localhost:8080/img/Juan.jpg"
+              src="https://www.projectvoices.org/img/Juan.jpg"
 
             />
              </v-avatar>
